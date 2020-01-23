@@ -1,0 +1,52 @@
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.exe
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.deps.json
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.runtimeconfig.json
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.runtimeconfig.dev.json
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.pdb
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.csprojAssemblyReference.cache
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\staticwebassets\gRPCGreeter1.StaticWebAssets.Manifest.cache
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\staticwebassets\gRPCGreeter1.StaticWebAssets.xml
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.AssemblyInfoInputs.cache
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.AssemblyInfo.cs
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.RazorTargetAssemblyInfo.cache
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.csproj.CopyComplete
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.dll
+C:\Users\i.tarashchuk\source\repos\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.pdb
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.exe
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.deps.json
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.runtimeconfig.json
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.runtimeconfig.dev.json
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\gRPCGreeter1.pdb
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.csprojAssemblyReference.cache
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\staticwebassets\gRPCGreeter1.StaticWebAssets.Manifest.cache
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\staticwebassets\gRPCGreeter1.StaticWebAssets.xml
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.AssemblyInfoInputs.cache
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.AssemblyInfo.cs
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.RazorTargetAssemblyInfo.cache
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.csproj.CopyComplete
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.dll
+C:\Users\taras\OneDrive\Рабочий стол\gRPCGreeter1\gRPCGreeter1\obj\Debug\netcoreapp3.1\gRPCGreeter1.pdb
